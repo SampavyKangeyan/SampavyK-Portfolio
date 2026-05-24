@@ -253,8 +253,8 @@ h2 {
   font-weight: 500;
 }
 
-/* /* RECOMMENDATIONS */
-
+ /* RECOMMENDATIONS */
+/*
 .all_recommendations {
   display: flex;
   flex-wrap: wrap;
@@ -284,10 +284,10 @@ h2 {
 .recommendation span {
   color: #10b981;
   font-size: 24px;
-}
+} */
 
 /* FORM */
-
+/*
 .flex_center {
   display: flex;
   align-items: center;
@@ -362,8 +362,8 @@ button:hover {
   cursor: pointer;
 }
 
-/* /* POPUP */
-
+ /* POPUP */
+/*
 .popup {
   width: 350px;
   background: white;
